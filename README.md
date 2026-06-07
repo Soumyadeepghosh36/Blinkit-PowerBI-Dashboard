@@ -22,4 +22,4 @@ This dashboard analyzes Blinkit's sales performance, outlet performance, item ca
 - DAX
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](blinkit_dashboard.png)
