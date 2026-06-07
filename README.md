@@ -1,25 +1,30 @@
-# Blinkit Sales Dashboard (Power BI)
+# Blinkit Sales Analysis Dashboard
 
-## Project Overview
-This dashboard analyzes Blinkit's sales performance, outlet performance, item categories, and customer ratings.
+## Overview
+This project analyzes Blinkit's sales performance, outlet characteristics, product categories, and customer ratings using Power BI.
 
-## KPIs
+## Dashboard KPIs
 - Total Sales: $1.20M
 - Average Sales: $141
-- Number of Items: 8523
+- Number of Items: 8,523
 - Average Rating: 3.9
 
-## Dashboard Insights
-- Sales trend by outlet establishment year
-- Sales by item type
-- Sales by outlet size
-- Sales by outlet location
-- Fat content analysis
+## Key Insights
+- Sales by Outlet Location
+- Sales by Outlet Size
+- Sales by Item Type
+- Fat Content Analysis
+- Outlet Establishment Trends
+- Customer Rating Analysis
 
 ## Tools Used
 - Power BI
-- Excel/CSV
 - DAX
+- Excel/CSV
 
 ## Dashboard Preview
+
 ![Dashboard](dashboard.png)
+
+## Author
+Soumyadeep
