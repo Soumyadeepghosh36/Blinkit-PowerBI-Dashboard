@@ -136,7 +136,7 @@ The dataset contains:
 
 ## 👨‍💻 Author
 
-**Soumyadeep**
+**Soumyadeep Ghosh**
 
 Aspiring Data Analyst | Power BI Developer | Business Intelligence Enthusiast
 **
