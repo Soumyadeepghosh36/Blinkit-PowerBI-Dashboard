@@ -1,4 +1,4 @@
-**# 🛒 Blinkit Sales & Outlet Performance Dashboard
+🛒 Blinkit Sales & Outlet Performance Dashboard
 
 ## 📊 Project Overview
 
@@ -9,7 +9,7 @@ This Power BI dashboard provides a comprehensive analysis of Blinkit's grocery s
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="Images/Dashboard.png" alt="Blinkit Dashboard" width="1000">
+  <img src="Images/Dashboard.png.jpeg" alt="Blinkit Dashboard" width="1000">
 </p>
 
 ---
