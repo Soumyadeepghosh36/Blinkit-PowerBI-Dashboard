@@ -8,7 +8,7 @@ This Power BI dashboard provides a comprehensive analysis of Blinkit's grocery s
 
 ## Dashboard Preview
 
-![Dashboard Preview](Images/dashboard.png.jpeg)
+![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
 ---
 
 ## 🎯 Business Objective
